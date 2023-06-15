@@ -1,2 +1,3 @@
 # kaggle_challenges
-Includes Kaggle related challenges
+Includes Kaggle related challenges - Data Science projects with various types of problems and applications 
+<br>📓 Each project notebook follows a structured format, starting with exploratory data analysis (EDA) and data preprocessing. It then progresses to the implementation of a baseline model, followed by the incorporation of comparison models. The notebooks also include model tuning for optimization and comprehensive model diagnostics. By following this organized approach, I aim to provide a thorough understanding of the problem, effective preprocessing techniques, and an iterative model improvement process.
